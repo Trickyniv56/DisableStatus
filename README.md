@@ -1,6 +1,7 @@
 # DisableStatus
 
-Disables the online/offline status on people's discord avatars. 
+Disables the online/offline status on people's discord avatars. \
+[WIP]- I'm still learning GIT and CSS, the mod works but it's not yet publishable
 
 
 
