@@ -1,19 +1,18 @@
-# RadialStatus
+# DisableStatus
 
-Changes the status icons to wrap around the avatar. Shape can be changed inside the theme file.
+Disables the online/offline status on people's discord avatars. 
 
-![members](https://i.imgur.com/4zZU4iw.jpg)
+
 
 ## Download
 
-BetterDiscord Download: [https://betterdiscord.app/theme/RadialStatus](https://betterdiscord.app/Download?id=32)  
-Powercord Install: `git clone https://github.com/DiscordStyles/RadialStatus --branch deploy`  
-Vencord link: `https://raw.githubusercontent.com/DiscordStyles/RadialStatus/deploy/RadialStatus.theme.css`
+[Not uploaded yet. add when changes]
 
-## Contributing
 
-Looking to contribute to RadialStatus theme? Read the the [contributing.md](https://github.com/DiscordStyles/RadialStatus/blob/master/CONTRIBUTING.md) file.
+## Thanks
+Gibbu- This whole theme is a modification of their theme [https://github.com/DiscordStyles/RadialStatus](RadialStatus). 
+Forking their theme was the quickest and easiest way to achieve this end, and their original work is beautiful as well. Thank you
 
 ## License
-
+Since this is a fork of someone else's work- I'll link directly to their LICENSE.md. 
 See the [LICENSE](https://github.com/DiscordStyles/RadialStatus/blob/master/LICENSE.md) file for license rights and limitations (MIT).
